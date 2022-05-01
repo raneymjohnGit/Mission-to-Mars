@@ -56,7 +56,7 @@ Follow the instructions below to complete Deliverable 2.
     the responsiveness of your website.
     -   Click on the Toggle Device Toolbar icon to open the UI that enables you to simulate responsiveness.
     -   Choose a device to test your webpage, as shown in the following image:
-        ![image_name](https://github.com/raneymjohnGit/Mission-to-Mars/blob/main/Resources/simulate responsiveness.png)
+        ![image_name](https://github.com/raneymjohnGit/Mission-to-Mars/blob/main/Resources/simulate_responsiveness.png)
 
 2.  Add two other Bootstrap 3 components from this listLinks to an external site.. Examples include:
     -   Styling the "Scrape New Data" button.
